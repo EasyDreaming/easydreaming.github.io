@@ -1,3 +1,4 @@
 # My Mainpage
 kefuzhao@stu.scu.edu.cn
-Since 2021, Phd student of sichuan university.
+
+I have been a Ph.D. student of Sichuan University since 2021.
